@@ -54,7 +54,7 @@
 <p align="center">
   <a href="https://www.tiktok.com/@syaa.ygy"><img src="https://img.shields.io/badge/TIKTOK-0D1117?style=for-the-badge&logo=tiktok&logoColor=00FFFF"/></a>
   &nbsp;
-  <a href="https://www.instagram.com/rafpas"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+  <a href="https://www.instagram.com/rafpas_"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
   &nbsp;
   <a href="https://github.com/rappsoxee"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
 </p>
